@@ -24,7 +24,7 @@ A simple command-line interface messenger for local network communication, writt
 ## Installation (for end users)
 ### Windows
 
-1. Download the zip archive
+1. [Download](https://github.com/LevVel123/LMD_chat/releases) the zip archive
 2. Extract to a convenient location on your PC
 
 ### Mac OS
